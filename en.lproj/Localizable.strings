@@ -128,6 +128,7 @@
 "nfc_settings_send_email_question_title" = "Do you want tell me your issue with NFC for iPhone?";
 "nfc_settings_rate_app_alert_answer_yes" = "Yes";
 "nfc_settings_rate_app_alert_answer_no" = "No";
+"nfc_settings_help_translating_title" = "Help translating the App";
 "nfc_settings_licenses_title" = "Licenses";
 "nfc_settings_licenses_font_section_header" = "Font";
 "nfc_settings_3rd_party_libs_section_header" = "Third Party Libraries";
