@@ -1,0 +1,218 @@
+"nfc_general_ok" = "Ok";
+"nfc_general_cancel" = "Abbrechen";
+
+"nfc_reader_title" = "NFC Lesen";
+"nfc_writer_title" = "NFC Schreiben";
+"nfc_expert_title" = "NFC Experte";
+"nfc_settings_title" = "Einstellungen";
+"nfc_create_vcard_title" = "Visitenkarte erstellen";
+"nfc_create_weblink_title" = "Weblink erstellen";
+"nfc_create_location_title" = "Standort erstellen";
+"nfc_create_wifi_title" = "Wi-Fi erstellen";
+"nfc_create_text_title" = "Text erstellen";
+"nfc_create_sms_title" = "SMS erstellen";
+"nfc_create_tel_title" = "Telefonnummer erstellen";
+"nfc_create_shortcut_title" = "Kurzbefehl erstellen";
+"nfc_read_help_title" = "Lesen Hilfe";
+"nfc_write_help_title" = "Schreiben Hilfe";
+"nfc_licenses_title" = "Lizenzen";
+"nfc_pro_title" = "Pro";
+"nfc_donation_title" = "Spende";
+
+
+"nfc_help_title" = "Hilfe";
+
+"nfc_delete_all_tags_title" = "Warnung!";
+"nfc_delete_all_tags_message" = "Du bist dabei ALLE gespeicherten Datensätze zu löschen. Hinweis: Du kannst einzeln löschen, indem du einen Datensatz von rechts nach links wischt.";
+"nfc_delete_all_tags_button_delete_title" = "Löschen";
+"nfc_delete_all_tags_button_cancel_title" = "Abbrechen";
+
+"nfc_vcard_error" = "VCard Fehler - Bitte überprüfe ob die Formatierung stimmt.";
+
+"nfc_scan_hint_1" = "Halte den NFC-Tag an die obere Rückseite an deinem iPhone";
+"nfc_scan_hint_2" = "Ist dein NFC-Tag richtig formatiert? Sieh in die Hilfe für mehr Infos!";
+"nfc_scan_hint_3" = "Kreditkarten, Reisepässe oder Nahverkehrskarten werden nicht unterstützt!";
+
+"nfc_write_hint" = "Halte die obere Rückseite deines iPhone in die Nähe eines beschreibbaren NFC-Tags";
+"nfc_write_lock_hint" = "NFC-Tag sperren.\nDieser Vorgang kann nicht rückgängig gemacht werden.";
+"nfc_write_multiple_tags_error" = "Mehrere NFC Tags wurden gefunden. Bitte halte nur einen NFC Tag an dein iPhone";
+"nfc_write_determine_ndef_status_error" = "NDEF Status konnte nicht bestimmt werden. Bitte erneut versuchen.";
+"nfc_write_tag_not_writable_error" = "NFC-Tag ist nicht beschreibbar.";
+"nfc_write_capacity_too_small_error" = "NFC-Tag Kapazität ist zu klein!\Mindestgröße: %d Bytes\nTag Größe: %d Bytes";
+"nfc_write_update_failed_error" = "Update fehlgeschlagen. Bitte erneut versuchen.";
+"nfc_write_tag_not_ndef_formatted_error" = "NFC-Tag ist nicht NDEF formatiert.";
+"nfc_write_lock_success" = "Sperren erfolgreich.";
+"nfc_write_lock_failed" = "Sperren fehlgeschlagen. Bitte versuche es noch einmal.";
+
+"nfc_write_succes" = "Schreibvorgang erfolgreich";
+"nfc_write_add_tag_title" = "Neue Nachricht erstellen";
+"nfc_write_add_tag_description" = "Bitte wähle einen Nachrichten-Typ aus";
+
+"nfc_write_button_title" = "Schreiben";
+"nfc_read_button_title" = "Lesen";
+"nfc_save_button_title" = "Speichern";
+"nfc_choose_contact_button_title" = "Kontakt auswählen";
+
+"nfc_contact_cell_title" = "Kontakt";
+"nfc_map_cell_title" = "Standort";
+"nfc_text_cell_title" = "Text";
+"nfc_weblink_cell_title" = "Weblink";
+"nfc_wifi_cell_title" = "Wi-Fi";
+"nfc_sms_cell_title" = "SMS";
+"nfc_tel_cell_title" = "Telefonnummer";
+"nfc_shortcut_cell_title" = "Kurzbefehl";
+
+"nfc_create_business_card_action_title" = "Visitenkarte";
+"nfc_create_location_action_title" = "Standort";
+"nfc_create_weblink_action_title" = "Weblink";
+"nfc_create_wifi_action_title" = "Wi-Fi";
+"nfc_create_text_action_title" = "Text";
+"nfc_create_sms_action_title" = "SMS";
+"nfc_create_tel_action_title" = "Telefonnummer";
+"nfc_create_shortcut_action_title" = "Kurzbefehl";
+"nfc_cancel_action_title" = "Abbrechen";
+
+"nfc_create_tel_placeholder" = "Telefonnummer eingeben";
+"nfc_create_sms_recipiant_placeholder" = "Telefonnummer eingeben";
+"nfc_create_sms_message_placeholder" = "Nachricht eingeben";
+"nfc_create_shortcut_placeholder" = "Kurzbefehl Name eingeben";
+"nfc_create_shortcut_parameter_placeholder" = "Parameter eingeben (Optional)";
+"nfc_create_shortcut_parameter_pasteboard_placeholder" = "Zwischenablage wird benutzt";
+
+"nfc_create_shortcut_use_pasteboard_title" = "Zwischenablage nutzen";
+
+"nfc_map_detail_open_in_maps_annotation_title" = "Standort von NFC für iPhone";
+
+//SETTINGS
+"nfc_settings_theme_section_header" = "Theme";
+"nfc_settings_pro_features_section_header" = "Pro Features";
+"nfc_settings_pro_features_adfree_title" = "Keine Werbung";
+"nfc_settings_pro_features_description" = "Durch den Kauf der werbefreien Version unterstützt du die Weiterentwicklung von NFC für iPhone. Dieses Produkt kann nur einmal erworben werden. Du kannst den Kauf jederzeit wiederherstellen.";
+"nfc_settings_pro_features_restore_button_title" = "Wiederherstellen";
+"nfc_settings_donations_section_header" = "Spenden an den Entwickler";
+"nfc_settings_donate_donut_title" = "Spende einen Donut 🍩";
+"nfc_settings_donate_smoothie_title" = "Spende einen Smoothie 🍹";
+"nfc_settings_donate_meal_title" = "Spende eine Mahlzeit 🍛";
+"nfc_settings_donate_description" = "Durch eine Spende unterstützt du die Weiterentwicklung von NFC für iPhone. Dieses Produkt kann mehrmals erworben werden.";
+"nfc_settings_purchase_success_title" = "Vielen Dank!";
+"nfc_settings_purchase_failed_title" = "Fehler";
+"nfc_settings_purchase_adfree_success_description" = "Der Kauf war erfolgreich. Bitte starte die App nun neu.";
+"nfc_settings_purchase_donation_success_description" = "Der Kauf war erfolgreich. Vielen Dank für deine Spende!";
+"nfc_settings_purchase_app_icon_success_description" = "Der Kauf war erfolgreich. Das App Icon wird nun aktiviert.";
+"nfc_settings_purchase_nothing_to_restore_description" = "Das Produkt wurde nie erworben.";
+"nfc_settings_purchase_restore_success_description" = "Die Wiederherstellung war erfolgreich. Bitte starte die App nun neu.";
+"nfc_settings_indefinite_read_section_header" = "NFC Lesen Einstellungen";
+"nfc_settings_compatibility_mode_title" = "Kompatibilitätsmodus";
+"nfc_settings_start_read_on_startup_title" = "Lesen beim App Start";
+"nfc_settings_open_links_on_read_title" = "Öffne Weblinks beim Lesen";
+"nfc_settings_run_shortcut_on_read_title" = "Kurzbefehl ausführen beim Lesen";
+"nfc_settings_indefinite_read_title" = "Unendlich Lesen";
+"nfc_settings_indefinite_read_section_footer" = "Nachdem ein NFC Tag gelesen wurde kannst du sofort den nächsten lesen bis du \"Fertig\" drückst.";
+
+"nfc_settings_help_section_header" = "Hilfe";
+"nfc_settings_help_read_title" = "Lesen";
+"nfc_settings_help_write_title" = "Schreiben";
+
+"nfc_settings_promotion_section_header" = "NFC Tags kaufen (Affiliate Links)";
+"nfc_settings_promotion_tag_title" = "NFC Tags";
+"nfc_settings_promotion_section_footer" = "Durch einen Kauf von NFC Tags über die obenstehenden Links erhalte ich einen kleinen Anteil vom unveränderten Kaufpreises als Unterstützung für die Entwicklung von NFC für iPhone.";
+
+"nfc_settings_promotion_amazon_link" = "https://www.amazon.de/gp/product/B06XH2R5ZP/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B06XH2R5ZP&linkCode=as2&tag=1337420050185-21&linkId=286272c640f7f513152282d89ec731c2";
+
+"nfc_settings_more_title" = "Mehr";
+"nfc_settings_website_title" = "Besuche meine Webseite";
+
+"nfc_settings_rate_app_title" = "Bewerte die App";
+"nfc_settings_rate_app_alert_question_title" = "Gefällt dir NFC für iPhone?";
+"nfc_settings_rate_app_alert_question_description" = "Wenn ja, dann nimm dir bitte einen kurzen Moment Zeit und teile anderen Benutzern mit, was dir gefällt und falls nicht, sage mir bitte per E-Mail, was ich besser machen könnte. Vielen Dank!";
+"nfc_settings_send_email_question_title" = "Möchtest du mir dein Problem mit NFC für iPhone mitteilen?";
+"nfc_settings_rate_app_alert_answer_yes" = "Ja";
+"nfc_settings_rate_app_alert_answer_no" = "Nein";
+"nfc_settings_licenses_title" = "Lizenzen";
+"nfc_settings_licenses_font_section_header" = "Schrift";
+"nfc_settings_3rd_party_libs_section_header" = "Drittanbieter Bibliotheken";
+"nfc_settings_licenses_icons_section_header" = "Icons";
+
+"nfc_settings_privacy_policy_title" = "Datenschutzerklärung";
+"nfc_settings_ad_consent_title" = "Werbezustimmung";
+
+//HELP
+"nfc_read_help_compatibility_mode_title" = "Was ist der Kompatibilitätsmodus?";
+"nfc_read_help_compatibility_mode_description" = "Wenn du den Kompatibilitätsmodus aktivierst, wird der Tag auf eine andere Art und Weise gelesen. Wenn du Probleme beim Lesen eines Tags hast, dann versuche es mal mit dem Kompatibilitätsmodus.";
+"nfc_read_help_ndef_title" = "Was ist NDEF?";
+"nfc_read_help_ndef_description" = "NDEF steht für \"NFC Forum Data Exchange Format\". Es definiert ein gekapseltes Nachrichten Format, welches für den Datenaustausch mit NFC Tags benötigt wird.";
+
+"nfc_read_help_credit_card_title" = "Ich möchte meine Kreditkarte auslesen";
+"nfc_read_help_credit_card_description" = "Diese Funktion wird von iOS nicht unterstützt und wird auch sehr wahrscheinlich in Zukunkt nicht von Apple freigegeben.";
+
+"nfc_read_help_other_card_title" = "Ich möchte meine Fahrkarte / Mensakarte oder ähnliches auslesen";
+"nfc_read_help_other_card_description" = "Diese Funktion wird von iOS unterstützt aber von dieser App (noch) nicht. In vielen Fällen steht auf solchen Karten meist nur eine lange Zahl, mit der der Endanwender nicht viel anfangen kann.";
+
+"nfc_read_help_no_read_title" = "Wenn ich einen NFC Tag an das iPhone halte passiert nichts";
+"nfc_read_help_no_read_description" = "Stelle sicher das dein NFC Tag auslesbare Daten enthält. Dein NFC Tag muss NDEF formatiert sein damit diese App davon lesen kann. Die meisten Karten in deinem Geldbeutel sind sehr wahrscheinlich nicht NDEF formatiert und werden von dieser App nicht erkannt. Du kannst dir aber hier in der App über die Amazon Affiliate Links passende NFC Tags bestellen.";
+
+"nfc_write_help_which_tags" = "Welche NFC Tags benötige ich?";
+"nfc_write_help_which_description" = "Am besten geeignet sind NXP NTag Chips. Es von diesen Tags mehere Ausführungen: NTAG 213, 215 und 216. Im wesentlichen Unterscheiden diese sich in der Speicherkapazität und somit auch im Preis. Für dich als Anwender ist vorallem wichtig, dass diese Tags NDEF vorformatiert sind. Im folgenden sind die verschiedenen Tags mit jeweiliger Speicherkapazität aufgelistet.\n\nNTAG 213: 180 Byte (NDEF: 137 Byte)\nNTAG 215: 540 Byte (NDEF: 480 Byte)\nNTAG 216: 924 Byte (NDEF: 868 Byte)\n\nAchte beim Kauf also darauf, dass du NFC Tags mit ausreichend Speicher kaufst. Du kannst NFC für iPhone unterstützen indem du die passenden NFC Tags über die Affiliate Links kaufst. Die Beworbenen Tags haben die größt mögliche Speicherkapazität und eignen sich für alle Anwendungsfälle.";
+
+"nfc_write_help_whats_shortcuts_section_header" = "Was ist die Kurzbefehle App?";
+"nfc_write_help_whats_shortcuts_title" = "Kurzbefehle Benutzerhandbuch";
+"nfc_write_help_whats_shortcuts_link" = "https://support.apple.com/de-de/guide/shortcuts/welcome/ios";
+
+"nfc_write_help_shortcuts_title" = "Wie kann ich die Kurzbefehle App mit NFC Tags ansteuern?";
+"nfc_write_help_shortcuts_description" = "Wähle in NFC Schreiben Anzeige den Menüpunkt \"Kurzbefehl\" aus und gebe den Namen des Kurzbefehls ein. Der Kurzbefehl muss exakt den selben Namen wie in der Kurzbefehle App haben. Achte hierbei auf Groß- und Kleinschreibung. Optional kannst du dem Kurzbefehl auch noch einen Parameter mitgeben oder die Zwischenablage auslesen lassen. Wenn du den Kurzbefehl dann auf einen NFC-Tag geschrieben hast, kannst du den Tag zu jederzeit auslesen, auch ohne das NFC für iPhone geöffnet ist. Einzige Voraussetzung ist das dein iPhone entsperrt sein muss.";
+
+"nfc_theme_blue" = "Blau";
+"nfc_theme_orange" = "Orange";
+"nfc_theme_green" = "Grün";
+"nfc_theme_pink" = "Pink";
+"nfc_theme_yellow" = "Gelb";
+
+"nfc_settings_app_icon_title" = "App Icon";
+"nfc_settings_choose_app_icon_title" = "App Icon auswählen";
+"nfc_app_icon_section_free_title" = "Gratis";
+"nfc_app_icon_section_premium_title" = "Premium";
+"nfc_appicon_standard" = "Standard";
+"nfc_appicon_dark" = "Dark Night";
+"nfc_appicon_pink" = "Zuckerwatte";
+"nfc_appicon_dark_rainbow" = "Rainbow Dark Mode";
+"nfc_appicon_rainbow" = "Rainbow";
+"nfc_appicon_flag_rastafari" = "Rastafari";
+"nfc_purchase_app_icon_title" = "App Icon";
+"nfc_purchase_app_icon_description" = "Durch den Kauf eines App Icons unterstützt du die Weiterentwicklung von NFC für iPhone. Dieses Produkt kann nur einmal erworben werden. Du kannst den Kauf jederzeit wiederherstellen.";
+
+//Expert Mode
+"nfc_expert_button_title" = "Funktion";
+
+"nfc_expert_mode_title" = "Wähle eine Funktion aus";
+"nfc_expert_mode_title_description" = "Achtung: einige der Funktionen können zu Datenverlust auf deinem Tag führen.";
+"nfc_expert_mode_read_memory_title" = "Speicher lesen";
+"nfc_expert_mode_empty_ndef_title" = "NDEF formatieren";
+"nfc_expert_mode_format_title" = "Formatieren";
+
+"nfc_tag_expert_section_header_tag_info" = "Tag Info";
+"nfc_tag_expert_section_header_tag_header" = "Tag Header";
+"nfc_tag_expert_section_header_tag_data" = "Daten";
+
+"nfc_expert_tag_info_tag_type" = "Tag Typ:";
+"nfc_expert_tag_info_tag_family" = "Tag Familie:";
+"nfc_expert_tag_info_identifier" = "Identifier:";
+"nfc_expert_tag_info_capcity" = "Kapazität:";
+"nfc_expert_tag_info_status" = "Status:";
+"nfc_expert_tag_info_status_read_only" = "Nur Lesen";
+"nfc_expert_tag_info_status_read_write" = "Lesen/Schreiben";
+"nfc_expert_header_vendor" = "Hersteller:";
+"nfc_expert_header_product_type" = "Produkt Typ:";
+"nfc_expert_header_product_subtype" = "Produkt Subtyp:";
+"nfc_expert_header_major_version" = "Major Version:";
+"nfc_expert_header_minor_version" = "Minor Version:";
+"nfc_expert_header_storage" = "Speicherplatz:";
+"nfc_expert_header_protocol_type" = "Protokoll Typ:";
+"nfc_expert_header_raw" = "Rohwert:";
+
+"nfc_override_alert_title" = "Achtung!";
+"nfc_override_alert_message" = "Dieser Vorgang überschreibt alle auf dem Tag gespeicherten Daten.";
+
+"nfc_error_tag_type_not_supported" = "Fehler: Tag Typ wird (noch) nicht unterstützt. Bitte wähle den Kompatibilitätsmodus in den Einstellungen aus und versuche es erneut.";
+"nfc_read_error_could_not_read_version" = "Fehler: Version konnte nicht gelesen werden. Bitte erneut versuchen.";
+"nfc_read_error_could_not_read_data" = "Fehler: Daten konnten nicht gelesen werden. Bitte erneut versuchen.";
+"nfc_write_error_empty_ndef" = "Fehler: Leere NDEF Nachricht konnte nicht geschrieben werden. Bitte erneut versuchen.";
